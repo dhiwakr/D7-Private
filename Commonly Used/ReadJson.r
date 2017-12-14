@@ -1,6 +1,8 @@
 require(jsonlite)
 library(jsonlite)
 
+
+#Read from POC Directory
 setwd("X:/POC")
 
 #Specify the path of JSON file
